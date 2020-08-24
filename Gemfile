@@ -71,3 +71,9 @@ gem 'jquery-rails'
 gem "bootstrap-sass", ">= 3.4.1"
 
 gem 'bcrypt',         '3.1.12'
+
+gem 'faker'
+
+gem 'will_paginate'
+
+gem 'bootstrap-will_paginate', '1.0.0'
